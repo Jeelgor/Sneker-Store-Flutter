@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "297038881264",
+    "project_id": "sneaker-st",
+    "storage_bucket": "sneaker-st.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297038881264:android:d09931c0c58669bd3efd35",
+        "android_client_info": {
+          "package_name": "com.example.clg_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297038881264-j6jkfgs6e6gmm3m29q1m5boh3ddcud1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArssrPKRbnUB1vYhpSic8fdQgmkLwtoMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297038881264-j6jkfgs6e6gmm3m29q1m5boh3ddcud1r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "297038881264-403hbhv670e7lff6l2sk02i9p2hk5nt1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.clgProject.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

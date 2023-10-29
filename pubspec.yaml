@@ -1,0 +1,30 @@
+name: clg_project
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  appcheck: ^1.0.6
+  cloud_firestore: ^4.9.2
+  firebase_app_check: ^0.2.0
+  firebase_auth: ^4.10.0
+  firebase_core: ^2.16.0
+  flutter:
+    sdk: flutter
+  flutter_cart: ^0.0.8 
+  google_nav_bar: ^5.0.6
+  google_sign_in: ^6.1.5
+  icons_plus: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  assets:
+    - assets/images/
+  uses-material-design: true

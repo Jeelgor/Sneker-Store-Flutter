@@ -1,0 +1,2 @@
+path/to/large/file filter=lfs diff=lfs merge=lfs -text
+E:/FLUTTER_CLG_PROJECT/FLUTTER_CLG_PROJECT/clg_project filter=lfs diff=lfs merge=lfs -text

@@ -1,0 +1,24 @@
+com.example.clg_project.app-jetified-window-1.0.0-beta04-0 C:\Users\Gor Jeel\.gradle\caches\transforms-3\a54e12c899568e2125680b87fc99b00b\transformed\jetified-window-1.0.0-beta04\res
+com.example.clg_project.app-jetified-play-services-auth-20.7.0-1 C:\Users\Gor Jeel\.gradle\caches\transforms-3\a94d132d0ef0624f14c90baff387914a\transformed\jetified-play-services-auth-20.7.0\res
+com.example.clg_project.app-core-1.6.0-2 C:\Users\Gor Jeel\.gradle\caches\transforms-3\aef680e4659e7261e8f305f4efcd731e\transformed\core-1.6.0\res
+com.example.clg_project.app-jetified-window-java-1.0.0-beta04-3 C:\Users\Gor Jeel\.gradle\caches\transforms-3\afc5e3f04eda95bf3e6fcdb70fb8652c\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.clg_project.app-jetified-firebase-common-20.3.3-4 C:\Users\Gor Jeel\.gradle\caches\transforms-3\cb6add6b579ce0b59a0c5e13555dac5c\transformed\jetified-firebase-common-20.3.3\res
+com.example.clg_project.app-jetified-play-services-base-18.0.1-5 C:\Users\Gor Jeel\.gradle\caches\transforms-3\db80488fff8e962096c9e9d860c09c77\transformed\jetified-play-services-base-18.0.1\res
+com.example.clg_project.app-browser-1.4.0-6 C:\Users\Gor Jeel\.gradle\caches\transforms-3\de90825ec1c1a269554adeffb620def6\transformed\browser-1.4.0\res
+com.example.clg_project.app-jetified-play-services-basement-18.2.0-7 C:\Users\Gor Jeel\.gradle\caches\transforms-3\e612b4ab96f1e7f7e53d6c75ff4d9d02\transformed\jetified-play-services-basement-18.2.0\res
+com.example.clg_project.app-jetified-annotation-experimental-1.1.0-8 C:\Users\Gor Jeel\.gradle\caches\transforms-3\f878a9a8371d9acbba5f3e830ca9a527\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.clg_project.app-debug-9 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\android\app\src\debug\res
+com.example.clg_project.app-main-10 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\android\app\src\main\res
+com.example.clg_project.app-google-services-11 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\build\app\generated\res\google-services\debug
+com.example.clg_project.app-pngs-12 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\build\app\generated\res\pngs\debug
+com.example.clg_project.app-resValues-13 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\build\app\generated\res\resValues\debug
+com.example.clg_project.app-rs-14 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\build\app\generated\res\rs\debug
+com.example.clg_project.app-mergeDebugResources-15 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.clg_project.app-mergeDebugResources-16 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.clg_project.app-merged_res-17 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\build\app\intermediates\merged_res\debug
+com.example.clg_project.app-packaged_res-18 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\build\appcheck\intermediates\packaged_res\debug
+com.example.clg_project.app-packaged_res-19 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.clg_project.app-packaged_res-20 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\build\firebase_app_check\intermediates\packaged_res\debug
+com.example.clg_project.app-packaged_res-21 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\build\firebase_auth\intermediates\packaged_res\debug
+com.example.clg_project.app-packaged_res-22 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\build\firebase_core\intermediates\packaged_res\debug
+com.example.clg_project.app-packaged_res-23 E:\FLUTTER_CLG_PROJECT\FLUTTER_CLG_PROJECT\clg_project\build\google_sign_in_android\intermediates\packaged_res\debug

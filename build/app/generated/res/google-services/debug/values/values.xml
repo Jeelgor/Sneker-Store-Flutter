@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">297038881264-j6jkfgs6e6gmm3m29q1m5boh3ddcud1r.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">297038881264</string>
+    <string name="google_api_key" translatable="false">AIzaSyArssrPKRbnUB1vYhpSic8fdQgmkLwtoMs</string>
+    <string name="google_app_id" translatable="false">1:297038881264:android:d09931c0c58669bd3efd35</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyArssrPKRbnUB1vYhpSic8fdQgmkLwtoMs</string>
+    <string name="google_storage_bucket" translatable="false">sneaker-st.appspot.com</string>
+    <string name="project_id" translatable="false">sneaker-st</string>
+</resources>
